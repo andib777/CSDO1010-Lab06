@@ -63,7 +63,7 @@ All lab steps are detailed in the [INSTRUCTIONS.md](INSTRUCTIONS.md) file. Proce
 - Tag and Push to Docker Hub
 - Automate with GitHub Actions
 
-Each completed step should be documented in your [LAB_REPORT.md](LAB_REPORT.md).
+Each completed step should be documented in your lab report.
 
 ## Lab Report
 
