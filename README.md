@@ -67,6 +67,8 @@ Each completed step should be documented in your [LAB_REPORT.md](LAB_REPORT.md).
 
 ## Lab Report
 
-- Once you have prepared your lab report, make a final commit to your lab repository.
-- Navigate to [Create Lab Report](../../actions/workflows/task-03-create-lab-report.yaml) and run the workflow.
-- Upload your lab report in PDF format via Moodle.
+- Proceed to the [tasks](INSTRUCTIONS.md) and complete each section in order.
+
+- Each completed step should be logged in a file named `CSDO1010_LAB_06_REPORT_LASTNAME_FIRSTNAME`.
+
+- Once you have prepared your lab report, submit the lab via Moodle.
